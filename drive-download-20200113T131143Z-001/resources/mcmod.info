@@ -1,7 +1,7 @@
 [
 {
-  "modid": "toolkit",
-  "name": "Cheat Tools Mod",
+  "modid": "pixel",
+  "name": "umbrella",
   "description": "Gold Cheat Tools.",
   "version": "${version}",
   "mcversion": "${mcversion}",
