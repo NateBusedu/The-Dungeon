@@ -17,8 +17,8 @@ public class ExampleMod
 	//The following lines are the mod's name. MODID has to be in lowercase and has to do with file names, you MUST change it or there will be mod conflicts.
 	//Go into src/main/resources/assets and then rename toolkit to whatever you changed MODID to.
 	//NAME is what the mod will be called in Minecraft.
-    public static final String MODID = "toolkit";
-    public static final String NAME = "Cheat Tools Mod";
+    public static final String MODID = "pixel";
+    public static final String NAME = "umbrella";
 	//Change this to "1.3", not that it'll change anything.
     public static final String VERSION = "1.2";
 
